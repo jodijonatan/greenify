@@ -10,3 +10,18 @@ body {
   background: linear-gradient(to bottom, #f0fdf4, #ffffff);
   color: #1f2937;
 }
+
+@theme {
+  /* Mendefinisikan Keyframes */
+  @keyframes marquee {
+    from {
+      transform: translateX(0%);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  /* Mendefinisikan Utility Animation */
+  --animate-marquee: marquee 30s linear infinite;
+}

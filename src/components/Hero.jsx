@@ -60,13 +60,13 @@ export default function Hero() {
         {/* Right Content - Visual Ilustratif & Infografis */}
         <div className="order-1 lg:order-2 relative">
           {/* Main Visual Container */}
-          <div className="relative z-10 w-full aspect-square max-w-[500px] mx-auto bg-gradient-to-br from-green-400 to-emerald-600 rounded-[2.5rem] shadow-2xl overflow-hidden flex items-center justify-center group">
+          <div className="relative z-10 w-full aspect-square max-w-[500px] mx-auto bg-gradient-to-br from-green-400 to-emerald-600 rounded-[2.5rem] shadow-2xl relative flex items-center justify-center group">
             {/* Mockup / Image Placeholder */}
             <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/leaf.png')] opacity-20" />
             <Globe className="w-48 h-48 text-white/90 animate-pulse-slow" />
 
             {/* Info Cards - Floating Animation */}
-            <div className="absolute top-10 -left-8 bg-white p-4 rounded-2xl shadow-xl animate-bounce-slow flex items-center gap-3">
+            <div className="absolute top-10 -left-8 bg-white p-4 rounded-2xl animate-float shadow-xl animate-bounce-slow flex items-center gap-3">
               <div className="bg-amber-100 p-2 rounded-lg text-amber-600">
                 <Zap size={20} fill="currentColor" />
               </div>
