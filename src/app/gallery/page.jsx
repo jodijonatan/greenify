@@ -8,7 +8,7 @@ export default function Gallery() {
       title: "Mangrove Planting",
       loc: "Surabaya",
       size: "md:col-span-2 md:row-span-2",
-      img: "https://images.unsplash.com/photo-1584564504443-6902488a666e?auto=format&fit=crop&q=80&w=800",
+      img: "https://plus.unsplash.com/premium_photo-1680322466240-5432df49a01e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ export default function Gallery() {
       title: "Eco-Tech Seminar",
       loc: "Bandung",
       size: "md:col-span-1 md:row-span-1",
-      img: "https://images.unsplash.com/photo-1591115765373-520b7a21769b?auto=format&fit=crop&q=80&w=500",
+      img: "https://plus.unsplash.com/premium_photo-1705267936187-aceda1a6c1a6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 5,

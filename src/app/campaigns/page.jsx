@@ -18,7 +18,7 @@ export default function Campaigns() {
       category: "Carbon Offset",
       status: "Active",
       image:
-        "https://images.unsplash.com/photo-1544333346-64e4fe186060?auto=format&fit=crop&q=80&w=600",
+        "https://plus.unsplash.com/premium_photo-1764695573427-2929ec411c72?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       participants: "850",
       daysLeft: "5",
       progress: 40,

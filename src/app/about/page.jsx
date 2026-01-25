@@ -49,8 +49,9 @@ export default function About() {
               </p>
               <p>
                 Didirikan pada tahun 2024, kami berevolusi dari komunitas lokal
-                menjadi startup teknologi lingkungan yang fokus pada **Digital
-                Waste Management** dan kampanye berkelanjutan berskala nasional.
+                menjadi startup teknologi lingkungan yang fokus pada{" "}
+                <strong>Digital Waste Management</strong> dan kampanye
+                berkelanjutan berskala nasional.
               </p>
 
               {/* Highlight Box */}
